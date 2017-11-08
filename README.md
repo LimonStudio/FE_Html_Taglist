@@ -1,4 +1,4 @@
-# 前端JavaScript ES6 清单
+# 前端HTML_Tag 清单
 
 **前端学习清单**是一份在学习前端知识时，更仔细归纳总结的一份列表，它希望列尽所有元素，把其它的用法，与 `hell` 走一遍，可行性确认一遍，希望能帮助到大部分人。
 
@@ -33,30 +33,19 @@ A: `docs/` 目录一般用来存放图片等信息。
 * 🛠: 在线工具/测试工具
 * 📹: 媒体或视频内容
 
-[![](/docs/images/logo.png)](https://www.producthunt.com/posts/front-end-checklist)
+[![](/docs/images/logo&logo.png)](https://github.com/LimonStudio)
 
 ## 目录
 
-1. **[let 等标识符](#let数据类型说明符)**
-2. **[const 等标识符](#const数据类型说明符)**
-3. **[ES6 符号](#ES6符号)**
+1. **[html 标签](#html标签)**
 
-## let数据类型说明符
+## html标签
 
-📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
-📚 [/let](/let)
+📖 [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
+📖 [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29680&query=&asc=true&order=&page=3)
+📖 [HTML5有哪些新特性、移除了哪些元素？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29681&query=&asc=true&order=&page=4)
+📖 [每个HTML文件里开头都有个很重要的东西，Doctype，知道这是干什么的吗？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29683&query=&asc=true&order=&page=6)
+📖 [下面有关html Doctype的描述，说法错误的是？](https://www.nowcoder.com/questionTerminal/7dff0c51f4644baf94db7535d8b304da)
+📚 [/html](/html)
 
-说明：如果你在使用 es6 的新语法，你一定会接触到申明变量的过程中方便的 let 与 const，let 和 const 的加入，让 var 几乎可以舍弃了，这个在 es5 中让众多开发者陷入作用域的思考。
-
-## const数据类型说明符
-
-📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
-📚 [/const](/const)
-
-const 的本质就如同在C语言一样，一个常量不能变动，但是当它指向的是一些指针时，往往就不太一样了。
-
-## ES6符号
-
-📚 [/signed](/signed)
-
-说明：符号这是很多人会忽略的问题，一来是可以深入到计算机编码的问题，二来，着实不太可能会用到，除非，你在开发一些表情包之类的问题。
+说明：`<html></html>` 这是最简单的，也是最常见的一个标签，不过关于他的知识是很多的，从 `html4` ，到 `html5` ，再到 `xhtml` 。包括其外部的 `doctype` 声明。
