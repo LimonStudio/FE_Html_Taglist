@@ -41,11 +41,11 @@ A: `docs/` 目录一般用来存放图片等信息。
 
 ## html标签
 
-📖 [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
-📖 [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29680&query=&asc=true&order=&page=3)
-📖 [HTML5有哪些新特性、移除了哪些元素？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29681&query=&asc=true&order=&page=4)
-📖 [每个HTML文件里开头都有个很重要的东西，Doctype，知道这是干什么的吗？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29683&query=&asc=true&order=&page=6)
-📖 [下面有关html Doctype的描述，说法错误的是？](https://www.nowcoder.com/questionTerminal/7dff0c51f4644baf94db7535d8b304da)
-📚 [/html](/html)
+- 📖 [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
+- 📖 [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29680&query=&asc=true&order=&page=3)
+- 📖 [HTML5有哪些新特性、移除了哪些元素？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29681&query=&asc=true&order=&page=4)
+- 📖 [每个HTML文件里开头都有个很重要的东西，Doctype，知道这是干什么的吗？](https://www.nowcoder.com/ta/review-frontend/review?tpId=80&tqId=29683&query=&asc=true&order=&page=6)
+- 📖 [下面有关html Doctype的描述，说法错误的是？](https://www.nowcoder.com/questionTerminal/7dff0c51f4644baf94db7535d8b304da)
+- 📚 [/html](/html)
 
 说明：`<html></html>` 这是最简单的，也是最常见的一个标签，不过关于他的知识是很多的，从 `html4` ，到 `html5` ，再到 `xhtml` 。包括其外部的 `doctype` 声明。
